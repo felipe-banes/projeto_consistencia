@@ -18,9 +18,9 @@ public class client_tcp {
         BufferedReader reader = new BufferedReader(entrada);
         System.out.println("Pacote recebido: "+writer);
         /*
-        ---------------------------------------
+        
         -------------- BUFFER -----------------
-        ---------------------------------------
+        
         */
         
         // Lê dados do teclado
